@@ -1,0 +1,202 @@
+.header {
+
+    height: 65px;
+    padding: 50px 350px 0 150px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+.logo {
+    width: 200px;
+    height: 38px;
+    margin-top: 13.5px;
+    margin-bottom: 13.5px;
+
+
+}
+.blue {
+    width: 184px;
+    height: 65px;
+    padding: 21px 35px 22px 35px;
+    background-color: #6B77E5;
+}
+.Consulting {
+    width: 114px;
+    height: 22px;
+    color: #FFFFFF;
+    font-weight: 600;
+    size: 18px;
+    line-height: 21.87px;
+    align-items: center;
+    text-align: center;
+}
+.flex-header {
+    display: flex;
+    justify-content: space-between;
+}
+.ul-item {
+    display: flex;
+    width: 1220px;
+    height: 65px;
+    justify-content: space-between;
+    vertical-align: middle;
+}
+.Work-Process {
+    font-weight: 500px;
+    font-size: 18px;
+    line-height: 21.78px;
+    text-align: center;
+    color: #37393F;
+  
+}
+.work-box {
+    width: 1220px;
+    height: 510px;
+    margin-top: 136px;
+    margin-bottom: 60px;
+    padding-left: 352px;
+    padding-right: 348px;
+    
+}
+.work-h {
+    font-weight: 700px;
+    font-size: 40px;
+    line-height: 48.4px;
+    text-align: center;
+    color: #37393F;
+    margin-bottom: 41px;
+}
+.wrapper {
+    width: 386px;
+    margin: 0 auto;
+    background-color: #F4F4F4;
+    align-items: center;
+    text-align: center;
+    display: flex;
+}
+.appointment {
+    width: 386px;
+    height: 383px;
+    background-color: #F4F4F4;
+    margin-right: 31px;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+
+}
+.work-section {
+    margin-top: 200px;
+}
+.appointment1 {
+    font-weight: 600px;
+    font-size: 25px;
+    line-height: 31.75px;
+    color: #37393F;
+    padding: 58PX 70.5PX 0 70.5PX;
+    margin-bottom: 16px;
+   
+   
+}
+.appointment2 {
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 26.31px;
+    color: #7D7D7D;
+    padding-left: 43px;
+    padding-right: 43px;
+    margin-bottom: 37px;
+   
+}
+.appointment3 {
+    font-weight: 600px;
+    font-size: 18px;
+    line-height: 21.78px;
+    color: #6B77E5;
+    padding-left: 137.5px;
+    padding-right: 137.5px;
+    margin-bottom: 10px;
+}
+.parent { 
+position: relative;
+}
+.child {
+position: absolute;
+z-index: 10;
+}
+
+.icon {
+    width: 72px;
+    height: 72px;
+    background-color: #40DDB6;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon2 {
+    background-color: #6B77E5;
+    width: 72px;
+    height: 72px;
+    border-radius: 100px;
+    justify-content: center;
+    align-items: center;
+}
+.icon3 {
+    background-color: #40DDB6;
+    width: 72px;
+    height: 72px;
+    border-radius: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+<!--section2--!>
+
+.background {
+    width: 1920px;
+    height: 557px;
+    
+}
+.Short-Video {
+    width: 102px;
+    height: 22px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21.78px;
+    color: #37393F;
+    position: relative;
+    vertical-align: middle;
+
+    
+}
+.green {
+    position: absolute;
+ 
+}
+.Our-Presentation {
+    width: 349px;
+    height: 48px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48.4px;
+    align-items: center;
+    position: relative;
+}
+.Collaboratively {
+    width: 511px;
+    height: 52px;
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 26.31px;
+    align-items: center;
+    position: relative;
+}
+.pause {
+    width: 64.5px;
+    height: 64.5px;
+    background-color: #6B77E5;
+    position: relative;
+    border-radius: 50px;
+}
+
